@@ -1,0 +1,147 @@
+/*Title Section */
+#title {
+  background-color: #212529;
+}
+
+.image {
+  height: 10%;
+  width: 10%;
+  margin-right: 10px;
+}
+
+.container-fluid {}
+
+.title-heading5 {
+  font-size: 50px;
+  color: #fff;
+  padding: 6% 15% font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  margin-left: 10%;
+}
+
+.title-heading2 {
+  color: #fff;
+  font-size: 20px;
+  padding: 20% 15% 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.download-button {
+  margin: 10px 0px 40px 100px;
+}
+
+.button-down {
+  margin: 5px 0 10px 15px;
+}
+
+.image-own {
+  width: 100%;
+  margin: 50% 20% 10% 30%;
+}
+
+/* Experience */
+
+
+#Experience {
+  background-color: #121212;
+}
+
+.title-heading3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  color: #fff;
+  line-height: 1.5;
+  margin: 190px 20px 80px 60px;
+}
+
+.link-hire {
+  color: #f04e3c;
+  font-size: 25px;
+  font-weight: 300;
+  margin-bottom: 100px;
+  display: inline-block;
+  position: relative;
+  margin-left: 60px;
+}
+
+.title-heading4 {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  margin: 190px 0 80px 10px;
+  text-align: left;
+}
+
+p {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+}
+
+.year-details {
+  margin: 10px 90px 20px 0;
+  text-align: right;
+  padding-bottom: 150px;
+}
+
+/* shoots */
+
+
+#Shoots {
+  background-color: #212529;
+}
+
+.single-team {
+  margin-top: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.shoot-pic-content {
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+  /* testimonials */
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #121212;
+  color: #fff;
+
+}
+
+.image-size {
+  width: 50%;
+  margin: 20px;
+
+}
+.test-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+/* footer */
+#footer {
+  padding: 7% 15%;
+  background-color: #212529;
+  text-align: center;
+}
+
+.foot {
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+
+}
+
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+
+  }
